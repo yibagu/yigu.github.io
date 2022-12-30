@@ -1,2 +1,0 @@
-# yigu.github.io
-blog
